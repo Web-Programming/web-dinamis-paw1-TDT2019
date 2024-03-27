@@ -7,7 +7,7 @@ Ini adalah Template Web HTML dan CSS. Gunakan sesuai petunjuk yang diberikan ole
 3. JAVASCRIPT
 
 ## DEMO
-KLIK LINK
+KLIK LINK https://github.com/Web-Programming/web-dinamis-paw1-TDT2019
 
 ## Cara Clining Project
 Jalankann perintah `git clone urlfgithub`
